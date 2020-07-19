@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**Scraping Javascript Using Capybara, Nokogiri and ChromeDriver on WSL**"
-date:       2020-07-19 18:14:26 +0000
+date:       2020-07-19 14:14:27 -0400
 permalink:  scraping_javascript_using_capybara_nokogiri_and_chromedriver_on_wsl
 ---
 
